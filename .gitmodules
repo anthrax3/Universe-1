@@ -28,8 +28,8 @@
 	branch = dev
 [submodule "modules/Common"]
 	path = modules/Common
-	url = https://github.com/aspnet/Common.git
-	branch = dev
+	url = https://github.com/benaadams/Common.git
+	branch = sv-empty-array
 [submodule "modules/Configuration"]
 	path = modules/Configuration
 	url = https://github.com/aspnet/Configuration.git

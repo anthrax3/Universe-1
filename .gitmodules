@@ -76,16 +76,16 @@
 	branch = dev
 [submodule "modules/HttpAbstractions"]
 	path = modules/HttpAbstractions
-	url = https://github.com/aspnet/HttpAbstractions.git
-	branch = dev
+	url = https://github.com/benaadams/HttpAbstractions.git
+	branch = react-to-StringValues
 [submodule "modules/HttpClientFactory"]
 	path = modules/HttpClientFactory
 	url = https://github.com/aspnet/HttpClientFactory.git
 	branch = dev
 [submodule "modules/HttpSysServer"]
 	path = modules/HttpSysServer
-	url = https://github.com/aspnet/HttpSysServer.git
-	branch = dev
+	url = https://github.com/benaadams/HttpSysServer.git
+	branch = ReactToStringValues
 [submodule "modules/Identity"]
 	path = modules/Identity
 	url = https://github.com/aspnet/Identity.git
@@ -128,8 +128,8 @@
 	branch = dev
 [submodule "modules/Mvc"]
 	path = modules/Mvc
-	url = https://github.com/aspnet/Mvc.git
-	branch = dev
+	url = https://github.com/benaadams/Mvc.git
+	branch = react-to-stringvalues
 [submodule "modules/MvcPrecompilation"]
 	path = modules/MvcPrecompilation
 	url = https://github.com/aspnet/MvcPrecompilation.git
